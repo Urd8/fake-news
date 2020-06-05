@@ -5,12 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 
-<body>
-    
-    <nav class="w3-bar w3-black">
-        <a href="index.php" class="w3-button w3-bar-item">Home</a>
-        <a href="" class="w3-button w3-bar-item">Feedback</a>
-    </nav>
+<body style=" background: linear-gradient(rgba(30,30,30,.75), rgba(30,30,30,.75)), url('images/digital_background.jpg'); color:white;">
 
     <section class="w3-container w3-center" style="max-width:600px">
         <h2 class="w3-wide">I Don't Know If Its Fake</h2>
@@ -30,7 +25,7 @@
                     <div>
                     <input type="text" name="content" placeholder="Article Content">
                     </div>
-                    <button type="submit" > SUMIT </button>
+                    <button type="submit" > SUBMIT </button>
                 </div>
             </form>
     </section>
