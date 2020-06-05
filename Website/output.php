@@ -80,7 +80,7 @@
 
         $number = $number + 1;
         }
-        if(isset($output2[0])){
+        if(isset($mostreliablesrc)){
             $maxposistion=array_search($mostreliablesrc,$reliablesrcs);
             $mostreliablecontent=$reliablecontent[$maxposistion];
 
@@ -104,7 +104,7 @@
 
         }
         else{
-            print("Your statement is wrong");
+            print("Sorry, there is no search result.");
         }
 
         // print_r ($output3);
