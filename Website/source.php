@@ -15,14 +15,9 @@
         {  
             // Store source name as a var called author
             $author = strval($sourceDiv->plaintext);
-            // Goes through if else statements to filter out non-local news sources
-            if ($author == "CNA" or $author == "The Straits Times" 
-            or $author == "The Business Times" or $author == "TODAYonline"
-            or $author == "The New Paper" or $author == "Mothership.sg")
-                {
                     // store variable into an array
                     $sources [] = $author; 
-                }
+                
         }
 
 
