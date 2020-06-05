@@ -16,7 +16,8 @@
 
                 <div class="topnav" >
                     <a href="index.php">HOME</a>
-                    <a style="float:right" href="/ST/GoogleScrapeSearch/feedback/">FEEDBACK</a>
+                    <a style="float:right" href="finalAI/index.php">AI prototype</a>
+                    <a style="float:right" href="feedback/index.php">FEEDBACK</a>
                     <a style="float:right" href="news.php">NEWS</a>
                     <a style="float:right" href="about.php">ABOUT</a>
                     
